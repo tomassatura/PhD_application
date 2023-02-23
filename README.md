@@ -1,5 +1,5 @@
 # Contents and commentary
-The repository contains requested support documentation for my PhD application. These are:
+The repository contains requested supporting documentation for my PhD application. These are:
 
 ## 1. Thesis
 As part of our course, there was no Master thesis. Instead, we completed a Final Year Design project, 
