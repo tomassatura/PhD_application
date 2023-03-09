@@ -8,9 +8,7 @@ I also attached my Bachelor thesis, which I wrote during my year at RWTH Aachen.
 highest grade 1.0 for this work, I also added the evaluation script :)
 
 ## 2. References
-Unfortunately, I have not been able to get a reference from RWTH Aachen yet, therefore I attached two
-referees from Imperial College London. If I get a reply from either of my Aachen contacts, I will add a RWTH 
-reference as well.
+Supplied are both references from Imperial College London and RWTH Aachen. My primary referee is prof Jerry Heng, as he was my personal tutor.
 
 ## 3. Publications
 I have added two pieces of work - a manuscript of a paper published in our departmental journal and a poster
